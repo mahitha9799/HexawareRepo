@@ -1,3 +1,0 @@
-this is a new file.
-cannot be committed without adding.
-should be added 
